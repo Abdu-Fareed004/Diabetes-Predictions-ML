@@ -6,7 +6,11 @@ Project Overview
 
 This project applies machine learning techniques to predict the likelihood of diabetes using patient-related health indicators. It explores data preprocessing, model development, cross-validation, threshold selection, performance evaluation, and model interpretability.
 
-The objective is to investigate how machine learning classification models can support risk prediction and provide a structured comparison of their predictive performance.
+-Project Repository: [Diabetes Predictions ML](https://github.com/Abdu-Fareed004/Diabetes-Predictions-ML)
+-- Kaggle Notebook: [View Diabetes Predictions on Kaggle](https://www.kaggle.com/code/fareedhassan/diabetes-predictions)
+
+The objective is to investigate how machine learning classification
+models can support risk prediction and provide a structured comparison of their predictive performance.
 
 Project Objectives
 
@@ -122,4 +126,6 @@ Data Science | Machine Learning | Artificial Intelligence
 - GitHub: [Visit My GitHub](https://github.com/Abdu-Fareed004)
 - Kaggle: [Visit My Kaggle](https://www.kaggle.com/fareedhassan)
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/hassan-farid-99b9013b1)
+- Twitter/X: [Follow Me on X](https://x.com/therealfareed_4)
+- Instagram: [Follow Me on Instagram](https://www.instagram.com/thereal_fareed)
 
