@@ -112,17 +112,14 @@ Disclaimer
 
 This is an educational and analytical machine learning project. The model has not been clinically validated and must not be used as a substitute for professional medical assessment, diagnosis, or treatment.
 
-Author
+## Author
 
-Hassan Farid
+**Hassan Farid**
+
 Data Science | Machine Learning | Artificial Intelligence
 
-* Portfolio: Hassan Farid
-* GitHub: Abdu-Fareed004
-* Kaggle: fareedhassan
-* LinkedIn: Hassan Farid
+- Portfolio: [Visit My Portfolio](https://v0-farid-portfolio-updated.vercel.app/)
+- GitHub: [Visit My GitHub](https://github.com/Abdu-Fareed004)
+- Kaggle: [Visit My Kaggle](https://www.kaggle.com/fareedhassan)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/hassan-farid-99b9013b1)
 
-
-## Link Test
-
-[Open My Portfolio](https://v0-farid-portfolio-updated.vercel.app/)
