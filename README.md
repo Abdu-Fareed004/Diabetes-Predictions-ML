@@ -121,3 +121,8 @@ Data Science | Machine Learning | Artificial Intelligence
 * GitHub: Abdu-Fareed004
 * Kaggle: fareedhassan
 * LinkedIn: Hassan Farid
+
+
+## Link Test
+
+[Open My Portfolio](https://v0-farid-portfolio-updated.vercel.app/)
